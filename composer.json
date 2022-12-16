@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mongodb/mongodb": "^1.12",
+        "ozdemirburak/iris": "^3.0"
+    }
+}
